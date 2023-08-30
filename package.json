@@ -21,5 +21,8 @@
     "tsc-watch": "^6.0.4",
     "typescript": "^5.1.6",
     "vitest": "^0.34.2"
+  },
+  "dependencies": {
+    "array-shuffle": "^3.0.0"
   }
 }
